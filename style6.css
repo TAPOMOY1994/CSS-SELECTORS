@@ -1,0 +1,34 @@
+button:hover
+{
+
+    background-color: yellow;
+}
+
+
+button:active
+
+{
+
+     color: red;
+}
+
+p::first-letter
+
+{
+    color: green;
+}
+
+p::first-line
+
+{
+
+    background-color: blue;
+}
+
+
+p::selection
+
+{
+
+    color: orange;
+}
